@@ -1,0 +1,11 @@
+freq:           1847.8 MHz
+arfcn:          725
+band:           DCS1800
+sample rate:    100e6
+decimation:     174
+Kc:             0x1E,0xF0,0x0B,0xAB,0x3B,0xAC,0x70,0x02
+
+C0 config:      BCCH (Non-combined)
+SDCCH timeslot: 1
+TCH/F timeslot: 5         
+TCH/F codec:    FR
